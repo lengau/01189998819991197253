@@ -7,8 +7,11 @@ For anyone not familiar, check out
 [The IT Crowd Wiki](http://theitcrowd.wikia.com/wiki/New_Emergency_Services).
 
 If your country has already been researched, it'll be available in a file above,
-sorted by its 2-letter country code. If not, please feel free to research it and
+sorted by its country code. If not, please feel free to research it and
 make a pull request.
+
+If you're unsure of your country's calling code, please check the Wikipedia
+article titled [List of country calling codes](https://en.wikipedia.org/wiki/List_of_country_calling_codes).
 
 # The Experiment
 
